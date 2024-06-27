@@ -1,0 +1,5 @@
+tensorflow
+pandas
+numpy
+opendatasets
+opencv-python
