@@ -1,6 +1,6 @@
 # Facial Emotion Recognition (FER2013)
 
-* This repository contains a simple Convolutional Neural Network (CNN) model for facial emotion recognition using the FER2013 dataset. The model achieves 64.78% accuracy on the   test data, leveraging transfer learning with the ImageNet model.
+* This repository contains a simple Convolutional Neural Network (CNN) model for facial emotion recognition using the FER2013 dataset. The model achieves 86.78% accuracy on    the training data, leveraging transfer learning with the ImageNet model.
 
 # About the FER2013 Dataset
 
